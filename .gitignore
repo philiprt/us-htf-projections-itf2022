@@ -13,6 +13,9 @@ data/tide_gauge/
 data/slr_scenarios/american_samoa_US_ITF_SLR_scenarios.nc
 data/slr_scenarios/TR_local_projections_ensemble.nc
 
+# macOS
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
