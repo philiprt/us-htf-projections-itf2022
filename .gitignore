@@ -1,3 +1,18 @@
+**/figures/
+**/output/
+**/progress/
+analysis_old/
+analysis/ensemble_stats/
+analysis/figures_and_tables/
+htf_observed/better_thresholds.ipynb
+htf_observed/day_min_max/
+htf_observed/htf_observed/
+htf_observed/levels/
+data/noaa_21cent_tides/
+data/tide_gauge/
+data/slr_scenarios/american_samoa_US_ITF_SLR_scenarios.nc
+data/slr_scenarios/TR_local_projections_ensemble.nc
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
